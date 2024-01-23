@@ -1,0 +1,9 @@
+body {
+  font-family: sans-serif;
+}
+
+.landing-container {
+  width: 400px;
+  height: 400px;
+  display: flex;
+}
